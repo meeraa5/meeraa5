@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-Nice to meet you!, I'm currently a rising senior at SJSU. This summer 2025 I am internsing at HPE as a Data Engineer. 
+Nice to meet you! I'm currently a rising senior at SJSU. This summer 2025 I am internsing at HPE as a Data Engineer. 
 
 I am Learning AI/ML with Cornell Univeristy and Break Through Tech is helping me break through tech :)
 
