@@ -1,9 +1,5 @@
 ## Hi there, I am Meera! 👋
 
-<!--
-**meeraa5/meeraa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
-
 Nice to meet you! I'm currently a rising senior at **San José State University (SJSU)** majoring in **Computer Science**.  
 
 💻 **Summer 2025:** I'm interning at **HPE as a Data Engineer**, working with **Python, SQL, and Snowflake**.  
