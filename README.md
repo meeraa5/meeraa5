@@ -11,7 +11,7 @@ I am Learning AI/ML with Cornell Univeristy and Break Through Tech is helping me
 
 I am truly looking forward to join a reserach opportunity and would love to collaborate on that and also on AI/ML/DS related project. 
 
-- 📫 How to reach me: vmeeraa5@gmail.com
+- 📫 How to reach me: linkedin.com/in/meeraa-vyas/ (preferred) or vmeeraa5@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love travelling, playing outdoor sports, exploring new places, and hiking. 
 
