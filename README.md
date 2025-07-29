@@ -2,8 +2,7 @@
 
 <!--
 **meeraa5/meeraa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+ -->
 
 Nice to meet you! I'm currently a rising senior at SJSU in Computer Science. This summer 2025 I am interning at HPE as a Data Engineer. 
 
