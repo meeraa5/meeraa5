@@ -6,7 +6,7 @@
 
 Nice to meet you! I'm currently a rising senior at SJSU in Computer Science. This summer 2025 I am interning at HPE as a Data Engineer. 
 
-I am Learning AI/ML with Cornell Univeristy and Break Through Tech is helping me break through tech :)
+I am Learning AI/ML through the course by Cornell Univeristy and Break Through Tech is helping me break through tech :)
 
 I am truly looking forward to join a reserach opportunity and would love to collaborate on that and also on AI/ML/DS related project. 
 
