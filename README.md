@@ -4,7 +4,7 @@
 **meeraa5/meeraa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 
-Nice to meet you! I'm currently a rising senior at SJSU in Computer Science. This summer 2025 I am interning at HPE as a Data Engineer. 
+Nice to meet you! I'm currently a rising senior at SJSU in Computer Science. This summer 2025 I am interning at HPE as a Data Engineer, where I am working with Python, SQL, and Snowflake. 
 
 I am Learning AI/ML through the course by Cornell Univeristy and Break Through Tech is helping me break through tech :)
 
