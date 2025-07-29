@@ -8,7 +8,7 @@ Nice to meet you! I'm currently a rising senior at SJSU in Computer Science. Thi
 
 I am Learning AI/ML through the course by Cornell Univeristy and Break Through Tech is helping me break through tech :)
 
-I am truly looking forward to join a reserach opportunity and would love to collaborate on that and also on AI/ML/DS related project. 
+I am truly looking forward to join a research opportunity and would love to collaborate on it, while AI/ML/DS related project is something I find fasinating to work with as well. 
 
 - 📫 How to reach me: linkedin.com/in/meeraa-vyas/ (preferred) or vmeeraa5@gmail.com 
 - 😄 Pronouns: she/her
