@@ -2,7 +2,7 @@
 
 Nice to meet you! I'm currently a rising senior at **San José State University (SJSU)** majoring in **Computer Science**.  
 
-💻 **Summer 2025:** I interned at **HPE as a Data Engineer**, working with **Python, SQL, and Snowflake**.  
+💻 **Summer 2025:** I interned at **HPE as a Data Engineer**, worked with **Python, SQL, and Snowflake**.  
 
 📚 I'm currently learning **AI/ML** through a course by **Cornell University**, supported by **Break Through Tech**.  
 
