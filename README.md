@@ -1,14 +1,16 @@
 ## Hi there, I am Meera! 👋
 
-Nice to meet you! I'm currently a rising senior at **San José State University (SJSU)** majoring in **Computer Science**.  
+Nice to meet you! I'm currently a senior at **San José State University (SJSU)** majoring in **Computer Science**.  
+
+💻 **Currently:** I am interning at **a start-up called Snellito**, as a Software Engineer Intern.  
 
 💻 **Summer 2025:** I interned at **HPE as a Data Engineer**, worked with **Python, SQL, and Snowflake**.  
 
 📚 I'm currently learning **AI/ML** through a course by **Cornell University**, supported by **Break Through Tech**.  
 
-💻 I got matched with **Automation Anywhere** for my **AI studio project** this fall, the project mainly focuses on Data Extraction and Visualization. 
+💻 I got matched with **Automation Anywhere** for my **AI studio project** past fall, the project mainly focuses on Data Extraction and Visualization. 
 
-🔎 I'm looking forward to joining a **research opportunity** and would love to collaborate on AI/ML/DS-related projects, as I find them fascinating!  
+🔎 I would love to collaborate on AI/ML/DS-related projects, as I find them fascinating!  
 
 ---
 
