@@ -1,10 +1,12 @@
 ## Hi there, I am Meera! 👋
 
-Nice to meet you! I'm currently a senior at **San José State University (SJSU)** majoring in **Computer Science**.  
+Nice to meet you! I'm currently a senior at **San José State University (SJSU)**, majoring in **Computer Science**.  
 
 💻 **Currently:** I am interning at **a start-up called Snellito**, as a Software Engineer Intern.  
 
 💻 **Summer 2025:** I interned at **HPE as a Data Engineer**, worked with **Python, SQL, and Snowflake**.  
+
+💻 **Summer 2024:** I interned at **CSM Aviation as a Project Management & Web Intern**, developed  **Leadership, Communication, Time-management, & Organization skills**.
 
 📚 I'm currently learning **AI/ML** through a course by **Cornell University**, supported by **Break Through Tech**.  
 
