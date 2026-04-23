@@ -6,11 +6,11 @@ Nice to meet you! I'm currently a senior at **San José State University (SJSU)*
 
 💻 **Summer 2025:** I interned at **HPE as a Data Engineer**, worked with **Python, SQL, and Snowflake**.  
 
-💻 **Summer 2024:** I interned at **CSM Aviation as a Project Management & Web Intern**, developed  **Leadership, Communication, Time-management, & Organization skills**.
+💻 **Summer 2024:** I interned at **CSM Aviation as a Web & UI/UX Designer**
 
-📚 I'm currently learning **AI/ML** through a course by **Cornell University**, supported by **Break Through Tech**.  
+📚 I'm currently learning **AI/ML** skills by **Cornell University**, supported by **Break Through Tech**.  
 
-💻 I got matched with **Automation Anywhere** for my **AI studio project** past fall, the project mainly focuses on Data Extraction and Visualization. 
+💻 I also got matched with **Automation Anywhere** for my **AI studio project** past fall, the project mainly focuses on Data Extraction and Visualization. 
 
 🔎 I would love to collaborate on AI/ML/DS-related projects, as I find them fascinating!  
 
